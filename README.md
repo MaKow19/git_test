@@ -1,0 +1,1 @@
+This is MaKow19 first git project!
